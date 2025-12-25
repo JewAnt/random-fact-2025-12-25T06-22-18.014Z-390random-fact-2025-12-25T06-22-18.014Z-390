@@ -1,2 +1,5 @@
-# random-fact-2025-12-25T06-22-18.014Z-390random-fact-2025-12-25T06-22-18.014Z-390
-"Daily unique fact: " + steps.code.$return_value.fact
+# Daily Random Fact
+
+Serving ice cream on cherry pie was once illegal in Kansas
+
+*Generated on 2025-12-25T06:22:19.392Z*
